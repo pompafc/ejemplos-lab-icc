@@ -1,4 +1,4 @@
-package argumentosconsola.main.java;
+package edu.fciencias.icc.argumentos;
 
 public class ImprimeArgumentosConsola {
 
